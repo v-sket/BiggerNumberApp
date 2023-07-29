@@ -16,8 +16,8 @@ The following **required** functionality is completed:
 
 The following **extensions** are implemented:
 
-* []
-* []
+* [x]
+* [x]
 
 ## Notes
 
@@ -25,4 +25,4 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2023] [Just vY]
+    Copyright [2023] [Just Vy]
