@@ -16,8 +16,8 @@ The following **required** functionality is completed:
 
 The following **extensions** are implemented:
 
-* [x]
-* [x]
+* [x] ..
+* [x] ..
 
 ## Notes
 
