@@ -1,6 +1,6 @@
 # Bigger Number App
 
-## *Just Vy*
+## *Just Vy* (aka *v-sket*)
 
 **Bigger Number App** (aka *Cal Admission Test*) prompts the user to select which of the two numbers presented is larger. The back ground color is updated depending on if the correct answer is chosen or not. New numbers are randomly selected after a user selection  
 
@@ -25,4 +25,4 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2023] [Just Vy]
+    Copyright [2023] [Just Vy] [v-sket]
